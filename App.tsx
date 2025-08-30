@@ -114,7 +114,7 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center p-4 text-xs text-gray-500">
-        <p>Ekata Earth Dynamic Pricing Engine made by Students of IIM Jammu for Digital Transformation course</p>
+        <p>Ekata Earth Dynamic Pricing Engine made by <b> Group-7 (Section A) </b> Students of IIM Jammu for <b> Digital Transformation course </b> </p>
       </footer>
     </div>
   );
